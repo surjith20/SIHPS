@@ -1,34 +1,34 @@
 # Smart India Hackathon Workshop
-# Date: 18:05:2024
-## Register Number:212223110033
-## Name:OVIYA P
+# Date: 04:09:2024
+## Ref No:24900287
+## Name:SURJITH D
 
 ## Problem Title 
+Development of e-Portal for facilitating Case Management Hearing of various types of cases
 
-
-E-Waste Facility Locator
 ## Problem Description
-Website that tells you the location of the nearest e-waste collection and recycling facility. Offers educational pop-ups on the harmful components of your e-waste and their effects on the environment and human health if not disposed correctly. There could be an option to input the model of your old device and earn credit points relative to the amount of precious metals recovered from the device if disposed correctly.
+Developing an e-portal for case management hearings requires careful planning, design, and implementation to meet the needs of various stakeholders while ensuring security and compliance. By following these steps, you can create an effective platform that enhances the efficiency and accessibility of the case management process.
+
 ## Problem Creater's Organization
-Ministry of Environment
+Ministry of Law and Justice
 
 ## Idea
-1.Nearest E-Waste Facility Locator:
-Use Geocoding AI to find nearby e-waste facilities based on the user's current location.
-Implement image recognition to categorize e-waste when users upload photos, suggesting the appropriate recycling facility.
+1.Role-Based Views:
 
-2.Virtual Assistant:
-Offer a virtual assistant that provides guidance on proper e-waste disposal methods and data wiping techniques for devices with sensitive information.
+Customize dashboards for different users (judges, lawyers, court staff, litigants) with relevant information and tools.
+2. Electronic Filing and Document Management:
 
-3.Educational Pop-ups:
-Display educational pop-ups to raise awareness about the harmful effects of e-waste on the environment and human health.
+E-Filing System: Enable users to submit case documents electronically, with built-in validation checks.
+3.Virtual Hearing Capabilities:
 
-4.Reward Points System:
-Introduce a reward points system where users earn points for each e-waste disposal, encouraging participation in recycling programs.
+Video Conferencing Integration: Embed tools for live video hearings with features like screen sharing and breakout rooms.
 
-5.Real-time Analytics Dashboard:
-Provide e-waste facilities with a dashboard showcasing real-time analytics and insights, including recycling rates and energy savings, to help users understand their impact on the environment.
+4.Messaging and Communication:
 
+Secure Messaging: Implement a secure messaging system for private communication between parties.
+5.Data Analytics and Reporting:
+
+Performance Metrics: Track and analyze metrics such as case processing times, hearing frequency, and user engagement.
 
 
 
@@ -37,29 +37,29 @@ Provide e-waste facilities with a dashboard showcasing real-time analytics and i
 
 
 ## Proposed Solution / Architecture Diagram
-![alt text](image-1.png)
+![image](https://github.com/user-attachments/assets/f18450ab-8217-44fb-b36c-30c1914cc3eb)
 
 ## Use Cases
-![alt text](10-2.jpg)
+![image](https://github.com/user-attachments/assets/a84445e9-b794-4a95-90db-56991680b280)
+
 
 ## Technology Stack
 React.js
 
-Node.js 
+Vue.js 
 
-PostgreSQL
+Angular
 
-Google maps
+Bootstrap
 
-Firebox Authenticator
+Material-UI
 
-Git , Postman or Insomnia
-
+Tailwind CSS
 ## Dependencies
 
-Mapping service- 10 days
+Mapping service- 15 days
 
-Data collection- 10 days
+Data collection- 16 days
 
-budget- rs.50,000
+budget- rs.70,000
 
